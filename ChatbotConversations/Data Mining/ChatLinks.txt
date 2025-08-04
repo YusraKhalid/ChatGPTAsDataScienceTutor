@@ -1,0 +1,17 @@
+New Data Cleaning Data & Example: https://chatgpt.com/share/6890d646-8810-8011-b231-e01cc7e4e763
+New Data Cleaning Solution: https://chatgpt.com/share/688a1063-9a90-8011-832a-8a982d67e66f
+
+Clustering Example: https://chatgpt.com/share/6890d963-93c4-8011-84a8-bfa270e4f732
+Clustering k-means Solution: https://chatgpt.com/share/688b95ce-c648-8011-82d8-c107c0d3c332
+Clustering k-medoids Solution: https://chatgpt.com/share/688b967e-542c-8011-88a6-da92cfb58f56
+Clustering DBSCAN Solution: https://chatgpt.com/share/688b96f0-6a00-8011-af1c-0a524b549dc6
+Clustering Hierarchical Solution: https://chatgpt.com/share/688b97f0-a1a0-8011-8ebe-4032e96956f7
+
+Itemset Mining Data and Example: https://chatgpt.com/share/6890d954-b578-8011-97ff-a3266db3620a
+FP-Growth Solution: https://chatgpt.com/share/68772e20-e68c-8011-b0ac-3ecab11e8dd7
+Apriori Solution: https://chatgpt.com/share/68772e69-7db8-8011-b5d2-f5cc382a6ee6
+Association Rules Generation: https://chatgpt.com/share/68772e82-4f0c-8011-af22-c33bf60840a9
+
+Decision Trees Data and Example: https://chatgpt.com/share/6890d945-dccc-8011-bb17-ed0bc2e47018
+Decision Trees Solution: https://chatgpt.com/share/6890d932-72b8-8011-b14f-7b48ec77b706
+Decision Trees Rule Creation: https://chatgpt.com/share/6890d922-6f70-8011-ad84-40f282f120eb
