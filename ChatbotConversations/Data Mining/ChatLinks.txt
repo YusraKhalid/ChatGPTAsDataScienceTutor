@@ -15,3 +15,9 @@ Association Rules Generation: https://chatgpt.com/share/68772e82-4f0c-8011-af22-
 Decision Trees Data and Example: https://chatgpt.com/share/6890d945-dccc-8011-bb17-ed0bc2e47018
 Decision Trees Solution: https://chatgpt.com/share/6890d932-72b8-8011-b14f-7b48ec77b706
 Decision Trees Rule Creation: https://chatgpt.com/share/6890d922-6f70-8011-ad84-40f282f120eb
+
+Outlier Detection Example: https://chatgpt.com/share/689375a3-8b10-8011-b797-4c23a1db5127
+Outlier Detection Normal Distribution: https://chatgpt.com/share/689375de-fba8-8011-a0e9-454b3a8ac430
+Outlier Detection Box Plot: https://chatgpt.com/share/6893761a-59f4-8011-86d3-1c0f482edf02
+Outlier Detection Distance Based: https://chatgpt.com/share/6893762b-f818-8011-ba40-38348ec6ade5
+Outlier Detection Density Based: https://chatgpt.com/share/6893764d-dc10-8011-84c0-866d03ac8ad5
