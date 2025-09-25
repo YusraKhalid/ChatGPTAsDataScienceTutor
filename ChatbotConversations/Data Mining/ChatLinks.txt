@@ -21,3 +21,4 @@ Outlier Detection Normal Distribution: https://chatgpt.com/share/689375de-fba8-8
 Outlier Detection Box Plot: https://chatgpt.com/share/6893761a-59f4-8011-86d3-1c0f482edf02
 Outlier Detection Distance Based: https://chatgpt.com/share/6893762b-f818-8011-ba40-38348ec6ade5
 Outlier Detection Density Based: https://chatgpt.com/share/6893764d-dc10-8011-84c0-866d03ac8ad5
+Outlier Detection Multivariate: https://chatgpt.com/share/68d49332-69ec-8011-add8-2c7d814a27df
