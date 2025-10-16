@@ -22,3 +22,9 @@ Outlier Detection Box Plot: https://chatgpt.com/share/6893761a-59f4-8011-86d3-1c
 Outlier Detection Distance Based: https://chatgpt.com/share/6893762b-f818-8011-ba40-38348ec6ade5
 Outlier Detection Density Based: https://chatgpt.com/share/6893764d-dc10-8011-84c0-866d03ac8ad5
 Outlier Detection Multivariate: https://chatgpt.com/share/68d49332-69ec-8011-add8-2c7d814a27df
+
+GraphDatabase Ranking: https://chatgpt.com/share/68f11a0b-98c8-8011-82c9-9df77bc70111
+GraphDatabase Generate Knowledge Graph Negatives: https://chatgpt.com/share/68ef142f-e9c8-8011-bca5-4d1a63deea0c
+GraphDatabase Generate Knowledge Graph: https://chatgpt.com/share/68ef13cf-a280-8011-9faf-9b8dadbec954
+GraphDatabase Rule Metrics: https://chatgpt.com/share/68eddc70-2950-8011-aaf8-2a84acb577c4
+GraphDatabase Link Prediction: https://chatgpt.com/share/68ef10df-52d4-8011-bf39-8506223a8c34
